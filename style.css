@@ -95,6 +95,10 @@ p.buttons {
   font-size: 20px;
 }
 
+#buttons a:hover{
+  background-color: #0069d9;
+  border-color: #0069d9
+}
 footer{
   border-top: 1px solid #ccc;
   margin-top: 80px;
